@@ -174,7 +174,7 @@ class CommentController extends Controller
 
     protected function checkTimeCreated($created)
     {
-        if((time() - strtotime($created) > 3600*12)){
+        if((time() - strtotime($created) > 3600)){
 
             return false;
 
