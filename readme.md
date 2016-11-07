@@ -1,3 +1,7 @@
+**API is running on remote server address http://138.201.187.45**
+---
+
+
 ORM-objects
 -----------
 **Bookmark**:
@@ -44,7 +48,7 @@ Response:
 ```
 
 **GET /bookmark/{url}** - Get the bookmark with comment via its url.
-!N.B> You should cut off "http://" or "https://"PART OF url.
+!N.B> You should cut off "http://" or "https://" part of url.
 
 Response:
 ```code
