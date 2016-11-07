@@ -1,6 +1,7 @@
 **API is running on remote server address http://138.201.187.45**
 ---
 **You can use make requests via links like http://138.201.187.45/bookmark **
+---
 **!N.B> API works with bookmakrs urls with "scheme:[//" ("http(s)://) part cutted off**
 
 ORM-objects
