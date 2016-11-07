@@ -101,7 +101,7 @@ Errors codes:
 }
 ```
 
-**PUT /comment/{id}** - Update a comment.
+**PUT /comment/{id}** - Update a comment, created less than an hour ago from your ip.
 
 Request:
 ```code
@@ -124,7 +124,7 @@ Errors codes:
 }
 ```
 
-**DELETE /comments/{id}** - Delete a comment.
+**DELETE /comments/{id}** - Delete a comment, created less than an hour ago from your ip.
 
 Response:
 ```code
