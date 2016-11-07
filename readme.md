@@ -103,7 +103,7 @@ Errors codes:
 
 **PUT /comment/{id}** - Update a comment.
 
-Запрос:
+Request:
 ```code
 {
     "com_text": "new_new_text"
