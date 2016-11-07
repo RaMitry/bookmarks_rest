@@ -2,7 +2,7 @@
 ---
 **You can use make requests via links like http://138.201.187.45/bookmark **
 ---
-**!N.B> API works with bookmakrs urls with "scheme:[//" ("http(s)://) part cutted off**
+**!N.B> API works with bookmakr's URLs with "http(s)://" part cutted off. Exp.: save bookmark url as "en.wikipedia.org" (not "https://en.wikipedia.org)**
 
 ORM-objects
 -----------
