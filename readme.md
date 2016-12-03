@@ -1,7 +1,3 @@
-**API is running on remote server address http://138.201.187.45**
----
-**You can use make requests via links like http://138.201.187.45/bookmark **
----
 **!N.B> API works with bookmakr's URLs with "http(s)://" part cutted off. Exp.: save bookmark url as "en.wikipedia.org" (not "https://en.wikipedia.org)**
 
 ORM-objects
